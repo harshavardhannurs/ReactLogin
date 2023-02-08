@@ -1,0 +1,11 @@
+.home-container{
+  display:flex;
+  justify-content: center;
+  align-items: center;
+  margin:3rem 0;
+  height:50vh;
+}
+
+.greetings{
+  font-size: 5rem;
+}
